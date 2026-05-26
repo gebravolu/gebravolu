@@ -75,15 +75,15 @@ A continuación, se detallan mis competencias técnicas avaladas por institucion
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="sql_server.png" alt="SQL Server 2022" width="100%"/><br>
+        <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/ADMINISTRACI%C3%93N%20Y%20DESARROLLO%20DE%20%20ADMINISTRACI%C3%93N%20Y%20DESARROLLO%20DE%20%20BASE%20DE%20DATOS%20CON%20SQL%20SERVER%202022_I.jpg" alt="SQL Server 2022" width="100%"/><br>
         <b>SQL Server 2022</b><br><small>Administración y Desarrollo</small>
       </td>
       <td align="center" width="33%">
-        <img src="python_especialista.png" alt="Python Especialista" width="100%"/><br>
-        <b>Python Avanzado</b><br><small>Procesamiento de Datos</small>
+        <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/Especialista%20en%20programaci%C3%B3n%20y%20procesamiento%20de%20datos%20con%20Phyton%20%20Niveles%20B%C3%A1sico%2C%20Intermedio%20y%20Avanzado_I.jpg" alt="Python Especialista" width="100%"/><br>
+        <b>Python</b><br><small>Procesamiento de Datos</small>
       </td>
       <td align="center" width="33%">
-        <img src="power_bi.png" alt="Power BI" width="100%"/><br>
+        <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/AN%C3%81LISIS%20DE%20DATOS%20CON%20POWER%20BI_I.jpg" alt="Power BI" width="100%"/><br>
         <b>Power BI</b><br><small>Business Intelligence</small>
       </td>
     </tr>
