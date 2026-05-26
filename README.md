@@ -42,15 +42,15 @@ A continuación, se detallan mis competencias técnicas avaladas por institucion
     <tr>
       <td align="center" width="33%">
         <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/CCNAv7%20-%20Introduction%20to%20Networks.jpg" alt="CCNA - Introduction to Networks" width="100%"/><br>
-        <b>CCNAv7: ENSA</b><br><small>Cisco</small>
+        <b>CCNAv7 - Introduction to Networks</b><br><small>Cisco</small>
       </td>
       <td align="center" width="33%">
         <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/CCNA%20-%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.jpg" alt="CCNA Switching" width="100%"/><br>
-        <b>CCNA: SRWE</b><br><small>Cisco</small>
+        <b>CCNAv7 - Switching, Routing, and Wireless Essentials</b><br><small>Cisco</small>
       </td>
       <td align="center" width="33%">
         <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/CCNAv7%20-%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation.jpg" alt="CCNA Enterprise Networking" width="100%"/><br>
-        <b>CyberOps Associate</b><br><small>Cisco</small>
+        <b>CCNAv7 - Enterprise Networking, Security, and Automation</b><br><small>Cisco</small>
       </td>
     </tr>
   </table>
