@@ -5,7 +5,7 @@
 
 _Apasionado por la optimización de infraestructura tecnológica, la administración de redes, ciberseguridad y la gestión de datos._
 
-[ canarias/madrid reemplázalo por tu ubicación si deseas ]
+Lima - Perú
 
 ---
 
@@ -41,15 +41,15 @@ A continuación, se detallan mis competencias técnicas avaladas por institucion
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/CCNA%20-%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.jpg" alt="CCNA Enterprise" width="100%"/><br>
+        <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/CCNAv7%20-%20Introduction%20to%20Networks.jpg" alt="CCNA - Introduction to Networks" width="100%"/><br>
         <b>CCNAv7: ENSA</b><br><small>Cisco</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/CCNAv7%20-%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation.jpg" alt="CCNA Switching" width="100%"/><br>
+        <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/CCNA%20-%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.jpg" alt="CCNA Switching" width="100%"/><br>
         <b>CCNA: SRWE</b><br><small>Cisco</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/CCNAv7%20-%20Introduction%20to%20Networks.jpg" alt="CyberOps Associate" width="100%"/><br>
+        <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/CCNAv7%20-%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation.jpg" alt="CCNA Enterprise Networking" width="100%"/><br>
         <b>CyberOps Associate</b><br><small>Cisco</small>
       </td>
     </tr>
