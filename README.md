@@ -33,7 +33,7 @@ Lima - Perú
 ---
 
 ## 📜 Certificaciones Oficiales
-A continuación, se detallan mis competencias técnicas avaladas por instituciones líderes del sector. *(Haz clic en cada categoría para desplegar la galería visual)*.
+A continuación, se detallan mis competencias técnicas avaladas por instituciones líderes del sector. 
 
 <details>
   <summary>🌐 <b>1. Infraestructura de Redes y Ciberseguridad (Ver Diplomas)</b></summary>
