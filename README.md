@@ -114,5 +114,5 @@ A continuación, se detallan mis competencias técnicas avaladas por institucion
 ---
 
 ## 🌐 Conéctate conmigo
-* 💼 **LinkedIn**: [Enlace a tu perfil de LinkedIn]
-* ✉️ **Correo Electrónico**: [Tu correo electrónico de contacto]
+* 💼 **LinkedIn**: www.linkedin.com/in/gebravolu
+* ✉️ **Correo Electrónico**: ge.bravolu@gmail.com
