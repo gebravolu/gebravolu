@@ -15,7 +15,7 @@ Lima - Perú
 * ⚙️ **Especialista en Infraestructura TI**: Experiencia como consultor de proyectos de TI y administración de sistemas.
 * ⚡ **Técnico Electricista Industrial**: Sólida experiencia técnica en sistemas eléctricos industriales.
 * 📊 **Analista de Datos**: Dominio en el procesamiento de datos con Python, SQL Server y Business Intelligence con Power BI.
-* 🗣️ **Idiomas**: Estudiante de inglés avanzado/intermedio (Idiomas PUCP).
+* 🗣️ **Idiomas**: Estudiante de inglés intermedio (Idiomas PUCP).
 
 ---
 
