@@ -52,24 +52,32 @@ A continuación, se detallan mis competencias técnicas avaladas por institucion
       <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/CCNAv7%20-%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation.jpg" alt="CCNA Enterprise Networking" width="100%"/><br>
       <b>CCNAv7 - Enterprise Networking, Security, and Automation</b><br><small>Cisco</small>
     </td>
-  </tr> <tr>
-    <td align="center" width="25%">
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
       <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/Dispositivos%20de%20Red%20y%20Configuraci%C3%B3n%20Inicial.jpg" alt="Dispositivos de Red" width="100%"/><br>
       <b>Dispositivos de Red y Configuración Inicial</b><br><small>Cisco</small>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/CyberOps%20Associate.jpg" alt="CyberOps Associate" width="100%"/><br>
       <b>CyberOps Associate.</b><br><small>Cisco</small>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/Operating%20Systems%20Basics.jpg" alt="Operating Systems" width="100%"/><br>
       <b>Operating Systems Basics</b><br><small>Cisco</small>
     </td> 
-    <td align="center" width="25%">
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
       <img src="https://github.com/gebravolu/gebravolu/blob/4e121314fdd5ff1ccc5e646d8873e2fe3bfe8850/certificados/Servicios%20de%20Dominio%20de%20Active%20Directory.jpg" alt="Windows Server" width="100%"/><br>
       <b>Windows Server</b><br><small>Cisco</small>
-    </td> 
-  </tr> </table>
+    </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
 </details>
 
 <details>
