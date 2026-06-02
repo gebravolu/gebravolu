@@ -64,8 +64,12 @@ A continuación, se detallan mis competencias técnicas avaladas por institucion
       <td align="center" width="33%">
         <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/Operating%20Systems%20Basics.jpg" alt="CCNA - Introduction to Networks" width="100%"/><br>
         <b>Operating Systems Basics</b><br><small>Cisco</small>
-      </td>
-    </tr>
+      </td> 
+        <td align="center" width="33%">
+        <img src="https://github.com/gebravolu/gebravolu/blob/4e121314fdd5ff1ccc5e646d8873e2fe3bfe8850/certificados/Servicios%20de%20Dominio%20de%20Active%20Directory.jpg" alt="CCNA - Introduction to Networks" width="100%"/><br>
+        <b>Windows Server</b><br><small>Cisco</small>
+      </td> 
+      </tr>
   </table>
 </details>
 
@@ -96,18 +100,13 @@ A continuación, se detallan mis competencias técnicas avaladas por institucion
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="sap_b1.png" alt="SAP Business One" width="100%"/><br>
+        <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/SAP%20BUSINNESS%20ONE%20-%20Cero%20a%20Experto.jpg" alt="SAP Business One" width="100%"/><br>
         <b>SAP Business One</b><br><small>Cero a Experto</small>
       </td>
       <td align="center" width="33%">
-        <img src="scrum_foundation.png" alt="Scrum Foundation" width="100%"/><br>
+        <img src="https://github.com/gebravolu/gebravolu/blob/main/certificados/SCRUM%20FUNDATION.jpg" alt="Scrum Foundation" width="100%"/><br>
         <b>Scrum Foundation</b><br><small>Metodologías Ágiles</small>
       </td>
-      <td align="center" width="33%">
-        <img src="ingles_pucp.png" alt="Inglés Idiomas PUCP" width="100%"/><br>
-        <b>Idioma Inglés</b><br><small>Idiomas PUCP</small>
-      </td>
-    </tr>
   </table>
 </details>
 
